@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/aayushsingh/Desktop/solidity-twitter-project-skeleton/contracts/twitter-q2.sol": {
+      "lastModificationDate": 1666529881560,
+      "contentHash": "d87a837e645a68b188db640e61f6421f",
+      "sourceName": "contracts/twitter-q2.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Twitter"
+      ]
+    }
+  }
+}
